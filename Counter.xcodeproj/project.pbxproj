@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		282D133E25BD24D20024DC2A /* CountRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 282D133D25BD24D20024DC2A /* CountRow.swift */; };
 		28CAF85525BCDFEC0055B6F7 /* CounterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CAF85425BCDFEC0055B6F7 /* CounterApp.swift */; };
 		28CAF85725BCDFEC0055B6F7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CAF85625BCDFEC0055B6F7 /* ContentView.swift */; };
 		28CAF85925BCDFED0055B6F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28CAF85825BCDFED0055B6F7 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		282D133D25BD24D20024DC2A /* CountRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountRow.swift; sourceTree = "<group>"; };
 		28CAF85125BCDFEC0055B6F7 /* Counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Counter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28CAF85425BCDFEC0055B6F7 /* CounterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterApp.swift; sourceTree = "<group>"; };
 		28CAF85625BCDFEC0055B6F7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				28CAF85425BCDFEC0055B6F7 /* CounterApp.swift */,
 				28CAF85625BCDFEC0055B6F7 /* ContentView.swift */,
+				282D133D25BD24D20024DC2A /* CountRow.swift */,
 				28CAF85825BCDFED0055B6F7 /* Assets.xcassets */,
 				28CAF85D25BCDFED0055B6F7 /* Persistence.swift */,
 				28CAF86225BCDFED0055B6F7 /* Info.plist */,
@@ -267,6 +270,7 @@
 			files = (
 				28CAF86125BCDFED0055B6F7 /* Counter.xcdatamodeld in Sources */,
 				28CAF85E25BCDFED0055B6F7 /* Persistence.swift in Sources */,
+				282D133E25BD24D20024DC2A /* CountRow.swift in Sources */,
 				28CAF85725BCDFEC0055B6F7 /* ContentView.swift in Sources */,
 				28CAF85525BCDFEC0055B6F7 /* CounterApp.swift in Sources */,
 			);
